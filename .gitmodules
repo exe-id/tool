@@ -1,3 +1,11 @@
 [submodule "themes/portio"]
 	path = themes/portio
 	url = https://github.com/StaticMania/portio-hugo
+[submodule "public"]
+	path = public
+	url = https://github.com/exe-id/exe-id.github.io.git
+	branch = master
+[submodule "docs"]
+	path = docs
+	url = https://github.com/exe-id/exe-id.github.io.git
+	branch = master
